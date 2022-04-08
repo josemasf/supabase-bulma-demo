@@ -6,9 +6,9 @@ App con get y post a supabase y sitema de login rápido.
 
 El proyecto consta de 3 ramas:
 
-1- Rama base con el proyecto Svelte-kit
-2- Rama con Bulma configurado y get y post sobre tabla en supabase
-3- Rama con sistema de login
+  1. Rama base con el proyecto Svelte-kit
+  2. Rama con Bulma configurado y get y post sobre tabla en supabase
+  3. Rama con sistema de login
 
 <hr />
 <h1 align="center">Hi 👋, I'm Jose</h1>
